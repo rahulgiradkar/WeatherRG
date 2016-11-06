@@ -38,10 +38,7 @@ import static android.R.attr.pivotY;
  * Created by Rahul on 03-11-2016.
  */
 public  class PlaceholderFragment extends Fragment {
-    /**
-     * The fragment argument representing the section number for this
-     * fragment.
-     */
+    
     private static final String ARG_SECTION_NUMBER = "section_number";
     private static WeatherData weatherData;
    /// private int poision=-1;
